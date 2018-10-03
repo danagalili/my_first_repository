@@ -9,3 +9,5 @@ branch is when i want to have a few verisons of the same file befoe i decide whi
 I can add collaborators by going to "settings" - "collaborators" then choosing the username or email and they will receive an email. 
 
 i find a bug so i made a branch
+
+i casn make local changes and then push them to the repository using the terminal or Sourcetree
