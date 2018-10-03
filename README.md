@@ -1,5 +1,6 @@
 # my_first_repository
 intorduction, zoology course 03.10.2018
+
 https://github.com/semacu/20181003_Intro_git_GitHub/blob/master/README.md
 
 md stands for markdown, it is the programming language for text written in github.
