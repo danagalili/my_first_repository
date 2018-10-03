@@ -11,5 +11,7 @@ I can add collaborators by going to "settings" - "collaborators" then choosing t
 if I find a bug I can make a branch and fix it, then merge the branch to the master.
 
 i can make local changes and then push them to the repository using the terminal or Sourcetree: 
-see:
+see on the github intro page:
 Make a change to the README.md file using your favourite text editor
+git push origin master
+git pull
