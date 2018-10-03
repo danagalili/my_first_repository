@@ -19,3 +19,7 @@ git push origin master
 git pull
 
 second part of the workshop included how to build a git website and a wiki, using markdown language.
+
+resources for learning about github:
+https://lab.github.com/
+
