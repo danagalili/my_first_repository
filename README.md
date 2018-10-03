@@ -8,6 +8,8 @@ a commit is when i send my updated version of my fiel to my own local repository
 branch is when i want to have a few verisons of the same file befoe i decide which them to commit to.
 I can add collaborators by going to "settings" - "collaborators" then choosing the username or email and they will receive an email. 
 
-i find a bug so i made a branch
+if I find a bug I can make a branch and fix it, then merge the branch to the master.
 
-i casn make local changes and then push them to the repository using the terminal or Sourcetree
+i can make local changes and then push them to the repository using the terminal or Sourcetree: 
+see:
+Make a change to the README.md file using your favourite text editor
